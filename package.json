@@ -6,11 +6,12 @@
     "node": "^12.18.1"
   },
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "node index.js"
   },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.6.1",
+    "express": "^4.17.1",
     "node": "^16.6.1",
     "ts-node": "^10.2.0"
   },
