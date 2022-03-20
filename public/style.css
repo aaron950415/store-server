@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 50vw;
+    height: 20vh;
+    margin-left: 40vw;
+    margin-top: 30vh;
+
+}
+.inputString{
+    margin: 20px;
+}
+.childrenSelect{
+    margin: 20px;
+}

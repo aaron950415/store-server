@@ -1,2 +1,0 @@
-(this.webpackJsonpepic=this.webpackJsonpepic||[]).push([[11],{273:function(t,c,e){"use strict";e.r(c);e(0);var i=e(7);c.default=function(){return Object(i.jsx)("h1",{children:"About"})}}}]);
-//# sourceMappingURL=11.304fdf4a.chunk.js.map
